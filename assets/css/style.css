@@ -272,7 +272,7 @@ input[type=submit] {
   #main-container {
     width: 90%;
     padding-top: 130px;
-    min-height: calc(100vh - 70px);
+    /* min-height: calc(100vh - 70px); */
     /* position: static; */
   }
 

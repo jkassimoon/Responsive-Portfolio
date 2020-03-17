@@ -31,4 +31,4 @@ I used HTML and CSS for this project.
 ![Screenshot of CSS 07](/assets/images/responsive-css07.png "Screenshot of CSS")
 
 * ## Gif Walkthrough of App Functioning 
-![Gif of finished page](/assets/images/responsive-walkthrough.gif "Gif of finished page")
+![Gif of finished page](/assets/images/responsive-walkthru.gif "Gif of finished page")
